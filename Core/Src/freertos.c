@@ -26,7 +26,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */     
-#include "./Dmx512/dmx512.h"
+#include "./Dmx512/dmx512_Test.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
